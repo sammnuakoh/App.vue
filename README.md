@@ -12,6 +12,12 @@ npm run dev
 yarn
 yarn dev
 ```
+npm install
+npm run dev
+
+# if using yarn:
+yarn
+yarn dev
 <script setup>
 import { ref } from 'vue'
 
